@@ -4,13 +4,13 @@
     "connector": "memory"
   },
   "postgresDs": {
-    "host": "localhost",
-    "port": 5433,
+    "host": "ducquang.heliohost.org",
+    "port": 5432,
     "url": "",
-    "database": "quanlygia",
-    "password": "01032019",
+    "database": "ducquang_quanlygia",
+    "password": "11111",
     "name": "postgresDs",
-    "user": "postgres",
+    "user": "ducquang_dev",
     "connector": "postgresql"
   }
 }
