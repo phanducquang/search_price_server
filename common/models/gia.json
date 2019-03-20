@@ -1,0 +1,24 @@
+{
+  "name": "gia",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "gia": {
+      "type": "number",
+      "default": 0
+    },
+    "linkanhmathang": {
+      "type": "string"
+    },
+    "barcode": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

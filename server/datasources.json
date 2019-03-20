@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgresDs": {
+    "host": "localhost",
+    "port": 5433,
+    "url": "",
+    "database": "quanlygia",
+    "password": "01032019",
+    "name": "postgresDs",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
