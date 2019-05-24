@@ -9,13 +9,13 @@
 
   
   "postgresDs": {
-    "host": "ducquang.heliohost.org",
+    "host": "ec2-54-247-178-166.eu-west-1.compute.amazonaws.com",
     "port": 5432,
     "url": "",
-    "database": "ducquang_quanlygia",
-    "password": "11111",
+    "database": "dba8i93g7upct4",
+    "password": "a93591e6a874c80f544e1e7a97c4f356c5f0ae46de8a9b9faa93095aa0da9579",
     "name": "postgresDs",
-    "user": "ducquang_dev",
+    "user": "hitkdvpgxgfumz",
     "connector": "postgresql"
   }
 }
